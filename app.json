@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#261941"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,9 +25,6 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.auto.covid"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }

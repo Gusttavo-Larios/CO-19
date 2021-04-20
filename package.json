@@ -1,19 +1,4 @@
 {
-  "expo": {
-    "name": "Covid-19",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain"
-    },
-    "version": "1.0.0",
-    "slug": "your-app-slug",
-    "android": {
-      "package": "com.auto.covid",
-      "versionCode": 1,
-      "backgroundColor": "#261941"
-    }
-  },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
